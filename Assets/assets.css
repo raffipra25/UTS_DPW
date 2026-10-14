@@ -22,7 +22,7 @@ header{
     background-color: aquamarine;
     border: auto black; 
     font-size: medium;
-    border-image: auto;
+    border-image: 10px;
     size-adjust: initial;
     box-sizing: border-box;
     box-shadow: blue;
@@ -33,3 +33,4 @@ header{
     outline: black;
     overflow: hidden;
 }
+
