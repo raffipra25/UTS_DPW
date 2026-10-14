@@ -1,0 +1,20 @@
+* {
+    margin: auto;
+}
+
+.profil {
+    margin: 100px 100px 100px 100px;
+    padding: auto;
+    background-color: aqua;
+    background-attachment: fixed;
+}
+
+.Kemampuan {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: fit-content;
+    margin: 10px 10px 10px 10px;
+    padding: auto;
+    background-attachment: fixed;
+    background-color: aquamarine;
+    border: auto black; 
+}
