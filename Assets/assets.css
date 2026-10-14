@@ -1,5 +1,5 @@
 * {
-    margin: auto;
+    margin: 12px 12px 12px 12px;
 }
 
 header{
@@ -17,9 +17,8 @@ header{
 
 .Kemampuan {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    height: fit-content;
     margin: 10px 10px 10px 10px;
-    padding: auto;
+    padding: 100px;
     background-color: aquamarine;
     border: auto black; 
     font-size: medium;
@@ -27,4 +26,10 @@ header{
     size-adjust: initial;
     box-sizing: border-box;
     box-shadow: blue;
+}
+
+.btn {
+    background-color: aliceblue;
+    outline: black;
+    overflow: hidden;
 }
